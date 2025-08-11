@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.lib{
+    background-color:white;
+    color: #f0001d;
+    
+    
+}
+.zip{
+    display: flex;
+    display: flex;
+    gap: 250px;
+    font-weight: 100;
+    background-color: #f0001d;
+}
+.state{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 80px;
+}
